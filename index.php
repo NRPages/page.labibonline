@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+            
+        <title>Лаборатория библиотек</title>
+
+        <link href="_3rd/bootstrap-4.3.1-dist/css/bootstrap.min.css" rel="stylesheet">
+
+    </head>
+    <body id='body' class='bg-light' style='margin:3em 15%'>
+<h1 class='display-4' style='font-size:200%'>
+Здесь создается профессиональная лаборатория библиотек для обмена опробованными инструментами и готовыми проектными схемами
+</h1>
+<br><br>
+<h1 class='display-4' style='font-size:125%'>
+Принять участие в создании портала может любой библиотечный специалист
+</h1>
+<br>
+<h3>
+<a href='mailto:labib@labib.ru'>labib@labib.ru</a>
+</h3>
+    </body>
+
+</html>
